@@ -3,6 +3,7 @@
   font-size: 1.4rem;
   line-height: 2rem;
   color: var(--color-blue);
+  text-wrap: nowrap;
 
   padding: 10px 25px;
   border-radius: 10px;
