@@ -1,0 +1,13 @@
+.check-list {
+  max-width: 743px;
+  width: 100%;
+  padding: 12px 18px 15px 22px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  background-color: var(--color-blue);
+  border-radius: 6px;
+  box-shadow: -2px 4px 8px rgba(0, 0, 0, .5);
+}

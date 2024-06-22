@@ -1,0 +1,10 @@
+.check-list__title {
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 1em;
+  color: var(--color-white);
+
+  padding: 3px 13px;
+  background-color: var(--color-dark-blue);
+  border-radius: 40px;
+}

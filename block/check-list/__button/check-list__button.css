@@ -1,0 +1,10 @@
+.check-list__button {
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 2rem;
+  color: var(--color-blue);
+
+  padding: 10px 25px;
+  border-radius: 10px;
+  background-color: var(--color-white);
+}

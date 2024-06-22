@@ -1,0 +1,43 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts.css);
+@import url(./block/page/page.css);
+@import url(./block/button/button.css);
+@import url(./block/check-list/check-list.css);
+@import url(./block/check-list/__container/check-list__container.css);
+@import url(./block/check-list/__counter/check-list__counter.css);
+@import url(./block/check-list/__text-container/check-list__text-container.css);
+@import url(./block/check-list/__title/check-list__title.css);
+@import url(./block/check-list/__sub-title/check-list__sub-title.css);
+@import url(./block/counter/counter.css);
+@import url(./block/counter/__text/counter__text.css);
+@import url(./block//counter/__indicator/content__indicator.css);
+@import url(./block/check-list/__text/check-list__text.css);
+@import url(./block/check-list/__button/check-list__button.css);
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: 'Inter', Arial, sans-serif;
+  font-size: 10px;
+
+  --color-blue: #3579F5;
+  --color-black: #000;
+  --color-white: #fff;
+  --color-dark-blue: #2364DB;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}

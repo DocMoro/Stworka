@@ -1,0 +1,4 @@
+.check-list__counter {
+  flex-shrink: 0;
+  align-self: end;
+}
