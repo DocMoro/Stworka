@@ -1,0 +1,4 @@
+.circular-progress__circle_type_bg {
+  stroke-width: calc(var(--stroke-width) / 2);
+  stroke: rgba(255, 255, 255, 0.5);
+}
